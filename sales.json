@@ -1,0 +1,734 @@
+[
+    {
+        "Type": "Ice Cream",
+        "Temperature": "14,2",
+        "Sales": "215",
+        "Number": "11"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "16,4",
+        "Sales": "325",
+        "Number": "16"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "11,9",
+        "Sales": "185",
+        "Number": "9"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "15,2",
+        "Sales": "332",
+        "Number": "16"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "18,5",
+        "Sales": "406",
+        "Number": "20"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "22,1",
+        "Sales": "522",
+        "Number": "26"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "19,4",
+        "Sales": "412",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "25,1",
+        "Sales": "614",
+        "Number": "31"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "23,4",
+        "Sales": "544",
+        "Number": "27"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "18,1",
+        "Sales": "421",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "22,6",
+        "Sales": "445",
+        "Number": "22"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "17,2",
+        "Sales": "408",
+        "Number": "20"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "13,5",
+        "Sales": "205",
+        "Number": "10"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "20,2",
+        "Sales": "398",
+        "Number": "19"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "12,8",
+        "Sales": "195",
+        "Number": "10"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "21,4",
+        "Sales": "435",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "10,6",
+        "Sales": "175",
+        "Number": "9"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "24,3",
+        "Sales": "573",
+        "Number": "28"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "19,7",
+        "Sales": "415",
+        "Number": "20"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "23,9",
+        "Sales": "560",
+        "Number": "28"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "14,8",
+        "Sales": "230",
+        "Number": "11"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "17,9",
+        "Sales": "387",
+        "Number": "19"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "16,1",
+        "Sales": "320",
+        "Number": "16"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "21,0",
+        "Sales": "430",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "11,3",
+        "Sales": "182",
+        "Number": "9"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "20,5",
+        "Sales": "425",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "15,9",
+        "Sales": "315",
+        "Number": "16"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "22,3",
+        "Sales": "450",
+        "Number": "22"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "19,1",
+        "Sales": "405",
+        "Number": "20"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "18,8",
+        "Sales": "413",
+        "Number": "21"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "25,4",
+        "Sales": "620",
+        "Number": "31"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "17,5",
+        "Sales": "395",
+        "Number": "20"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "14,0",
+        "Sales": "210",
+        "Number": "11"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "23,1",
+        "Sales": "540",
+        "Number": "27"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "16,7",
+        "Sales": "335",
+        "Number": "16"
+    },
+    {
+        "Type": "Ice Cream",
+        "Temperature": "12,4",
+        "Sales": "190",
+        "Number": "10"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "5.0",
+        "Sales": "61.5",
+        "Number": "3"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "10.0",
+        "Sales": "49.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "8.0",
+        "Sales": "51",
+        "Number": "3"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "12.0",
+        "Sales": "40.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "22.0",
+        "Sales": "30",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "18.0",
+        "Sales": "34.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "9.0",
+        "Sales": "48",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "8,6",
+        "Sales": "46.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "8.0",
+        "Sales": "45",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "9,3",
+        "Sales": "40.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "9,5",
+        "Sales": "45",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "7.0",
+        "Sales": "40.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "16.0",
+        "Sales": "39",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "18.0",
+        "Sales": "36",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "25.0",
+        "Sales": "27",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "23.0",
+        "Sales": "33",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "24.0",
+        "Sales": "31.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "16,6",
+        "Sales": "42",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "15.0",
+        "Sales": "34.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "11.0",
+        "Sales": "46.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "12.0",
+        "Sales": "43.5",
+        "Number": "4"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "3.0",
+        "Sales": "72",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "19.0",
+        "Sales": "37.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "17.0",
+        "Sales": "46.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "18,5",
+        "Sales": "37.5",
+        "Number": "3"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "15,6",
+        "Sales": "52.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "17,2",
+        "Sales": "49.5",
+        "Number": "3"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "18,3",
+        "Sales": "52.5",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "27.0",
+        "Sales": "24",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "24.0",
+        "Sales": "36",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "25.0",
+        "Sales": "30",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "30.0",
+        "Sales": "16.5",
+        "Number": "2"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "20,2",
+        "Sales": "31.5",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "30.0",
+        "Sales": "12",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "31.0",
+        "Sales": "12",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "35.0",
+        "Sales": "6",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "36.0",
+        "Sales": "6",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "37.0",
+        "Sales": "4.5",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "36,2",
+        "Sales": "7.5",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "34.0",
+        "Sales": "9",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "33.0",
+        "Sales": "6",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "26,3",
+        "Sales": "19.5",
+        "Number": "0"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "36,6",
+        "Sales": "6",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "20,4",
+        "Sales": "24",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "21,3",
+        "Sales": "21",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "30,4",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Coffe",
+        "Temperature": "30,3",
+        "Sales": "16.5",
+        "Number": "1"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "24.0",
+        "Sales": "40",
+        "Number": "3"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "16.0",
+        "Sales": "26",
+        "Number": "1"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "25.0",
+        "Sales": "46",
+        "Number": "3"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "14,2",
+        "Sales": "26",
+        "Number": "1"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "13,2",
+        "Sales": "26",
+        "Number": "1"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "34.0",
+        "Sales": "66",
+        "Number": "0"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "21.0",
+        "Sales": "30",
+        "Number": "1"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "28.0",
+        "Sales": "54",
+        "Number": "0"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "13.0",
+        "Sales": "24",
+        "Number": "0"
+    },
+    {
+        "Type": "Soda",
+        "Temperature": "2.8",
+        "Sales": "38",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "25.0",
+        "Sales": "24",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "10.0",
+        "Sales": "0",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "27.0",
+        "Sales": "39",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "8.0",
+        "Sales": "0",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "19.0",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "17.0",
+        "Sales": "12",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "18.0",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "19,5",
+        "Sales": "18",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "16,8",
+        "Sales": "12",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "19,7",
+        "Sales": "21",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "5.0",
+        "Sales": "0",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "15.0",
+        "Sales": "18",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "16,5",
+        "Sales": "18",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "14.0",
+        "Sales": "3",
+        "Number": "2"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "15,4",
+        "Sales": "6",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "22.0",
+        "Sales": "24",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "16,3",
+        "Sales": "9",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "13,2",
+        "Sales": "6",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "13.0",
+        "Sales": "6",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "20,1",
+        "Sales": "21",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "17,5",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "12.0",
+        "Sales": "6",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "28.0",
+        "Sales": "36",
+        "Number": "2"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "14,5",
+        "Sales": "12",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "12,7",
+        "Sales": "6",
+        "Number": "0"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "16,9",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "17,4",
+        "Sales": "15",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "17,2",
+        "Sales": "12",
+        "Number": "1"
+    },
+    {
+        "Type": "Juice",
+        "Temperature": "34.0",
+        "Sales": "63",
+        "Number": "3"
+    }
+]
